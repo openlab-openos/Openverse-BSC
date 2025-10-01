@@ -1,2 +1,16 @@
 # Openverse-BSC
 OpenOS Resources for BSC
+
+# Bitgold Smart Contract.
+
+deploy hash：
+0xdd21374aad3f7522881135ad2468e692089144d20c30ac84ca311426c9d41e8c
+https://bscscan.com/tx/0xdd21374aad3f7522881135ad2468e692089144d20c30ac84ca311426c9d41e8c
+
+owner:
+0xcDDd4D4f6f0e1684c1113d414a947C3Dd6CAc368
+https://bscscan.com/address/0xcDDd4D4f6f0e1684c1113d414a947C3Dd6CAc368
+
+smart contract address
+0x4C9027E10c5271Efca82379D3123917AE3F2374e
+https://bscscan.com/address/0x4c9027e10c5271efca82379d3123917ae3f2374e
