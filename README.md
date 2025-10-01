@@ -1,7 +1,7 @@
 # Openverse-BSC
 OpenOS Resources for BSC
 
-# Bitgold Smart Contract.
+# Bitgold Smart Contract on Binance Smart Chain @ 2025.09.20
 
 deploy hash：
 0xdd21374aad3f7522881135ad2468e692089144d20c30ac84ca311426c9d41e8c
