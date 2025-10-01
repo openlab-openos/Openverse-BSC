@@ -1,2 +1,2 @@
 # Openverse-BSC
-OpenOS Resource on BSC
+OpenOS Resources for BSC
